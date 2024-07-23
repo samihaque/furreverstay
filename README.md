@@ -11,6 +11,7 @@
 
 **Link to Project Documentation:** [link](https://docs.google.com/document/d/10uG2zbPJXFRg6SaWjSMh_QIm3TamC7SHQGCQRTtZPU0/edit?usp=sharing)
 
+**Link to Project Data Visualization:** [Data Visualization 1](initial_work/data-visualization-cleaning) and [Data Visualization 2](initial_work/data-visualization-cleaning-texas/Texas_Cleaning_and_visualization.ipynb)
 
 Project Details
 ===
